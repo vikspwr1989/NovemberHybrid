@@ -1,7 +1,5 @@
 package com.listeners;
 
-import java.sql.Date;
-
 import org.testng.ISuite;
 import org.testng.ISuiteListener;
 
